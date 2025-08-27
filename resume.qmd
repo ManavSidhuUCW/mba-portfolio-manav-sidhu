@@ -1,0 +1,110 @@
+---
+title: "Resume / CV"
+---
+
+# Professional Resume
+
+::: {.two-column}
+::: {.sidebar}
+## Contact Information
+
+**Manav Sidhu**  
+Greater Vancouver Area  
+manav.sidhu@example.com  
+[LinkedIn Profile](https://www.linkedin.com/in/manav-sidhu/)
+
+## Quick Facts
+
+- **Education**: MBA (in progress), University Canada West
+- **Previous Degree**: BA Economics, University of Delhi (2023)
+- **Languages**: English, Punjabi, Hindi
+- **Certifications**: Advanced Excel
+- **Career Focus**: Business Analytics, Operations, Customer Experience
+
+## Core Competencies
+
+- Customer Service Excellence
+- Inventory Management
+- Data Analysis & Reporting
+- Point-of-Sale Systems
+- CRM Management
+- Process Improvement
+- Cross-functional Collaboration
+
+::: {.btn-group}
+[Download PDF Version](assets/resume.pdf){.btn .btn-primary}
+:::
+:::
+
+::: {.main-content}
+## Professional Experience
+
+### Cashier & Stock Filler
+**Park Gate Farm Market, North Vancouver**  
+*August 2024 – April 2025*
+
+- **Customer Service**: Delivered exceptional customer experiences, handling complex transactions and resolving inquiries efficiently
+- **Inventory Management**: Maintained 99.2% inventory accuracy through systematic stock monitoring and replenishment procedures
+- **Point-of-Sale Operations**: Processed transactions accurately using advanced POS systems, ensuring error-free financial records
+- **Team Collaboration**: Worked effectively with cross-functional teams to optimize store operations and customer satisfaction
+
+### Sales & Marketing Intern
+**Spy Jet, Delhi, India**  
+*2021 – 2023*
+
+- **CRM Management**: Maintained accurate customer relationship management records for 500+ client accounts
+- **Marketing Support**: Assisted in promotional campaign execution and tracked performance metrics
+- **Data Analysis**: Generated comprehensive reports analyzing campaign effectiveness and customer engagement patterns
+- **Process Optimization**: Identified and implemented improvements to sales tracking and reporting procedures
+
+### Side Chef
+**Delhi Fusion, Vancouver**  
+*2020 – 2021*
+
+- **High-Volume Operations**: Coordinated food preparation and order fulfillment during peak service periods
+- **Inventory Control**: Monitored ingredient levels and maintained optimal stock rotation to minimize waste
+- **Cross-functional Communication**: Collaborated with kitchen and service staff to ensure smooth operations
+- **Quality Assurance**: Maintained food safety standards and quality control procedures
+
+## Education
+
+### Master of Business Administration
+**University Canada West, Vancouver**  
+*Expected Graduation: 2026*
+
+- Focus: Business Analytics and Operations Management
+- Current GPA: 3.8/4.0
+- Relevant Coursework: Strategic Management, Business Analytics, Operations Management
+
+### Bachelor of Arts in Economics
+**University of Delhi, India**  
+*Graduated: 2023 (1st Division)*
+
+- Academic Excellence: First Division with Distinction
+- Key Courses: Microeconomics, Macroeconomics, Statistics, Business Mathematics
+- Research Project: "Economic Impact of Digital Transformation in Retail Sector"
+
+## Certifications
+
+- **Advanced Excel Certification** - Microsoft Office Specialist
+- **Customer Service Excellence** - Retail Council of Canada
+- **Food Safety Certification** - British Columbia Food Safety
+
+## Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Analytics** | Excel (Advanced), Data Visualization, Statistical Analysis |
+| **Business Tools** | CRM Systems, POS Software, Inventory Management |
+| **Communication** | Professional Writing, Presentation Skills, Cross-cultural Communication |
+| **Languages** | English (Fluent), Punjabi (Native), Hindi (Fluent) |
+
+## Professional Development
+
+- **Continuous Learning**: Regularly attend business analytics workshops and industry conferences
+- **Networking**: Active member of Vancouver Business Network and University Canada West Alumni Association
+- **Volunteer Work**: Community outreach programs focused on business education and mentorship
+
+---
+
+*This resume reflects my commitment to continuous improvement and professional growth. My diverse experience across retail, sales, and operations provides a solid foundation for business analytics and management roles.*

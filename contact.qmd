@@ -1,0 +1,146 @@
+---
+title: "Contact"
+---
+
+# Get In Touch
+
+I welcome professional connections and opportunities to discuss business analytics, operations management, and customer experience optimization. Whether you're interested in collaboration, mentorship, or career opportunities, I'm always open to meaningful professional conversations.
+
+## Contact Information
+
+::: {.contact-panel}
+### Professional Contact
+
+**Email**: [manav.sidhu@example.com](mailto:manav.sidhu@example.com)  
+**LinkedIn**: [linkedin.com/in/manav-sidhu](https://www.linkedin.com/in/manav-sidhu/)  
+**Location**: Greater Vancouver Area, British Columbia, Canada
+
+### Availability
+
+- **Response Time**: I typically respond to professional inquiries within 24-48 hours
+- **Meeting Availability**: Available for virtual meetings and local networking events
+- **Professional Focus**: Business analytics, operations, customer experience, and MBA networking
+:::
+
+## LinkedIn Profile QR Code
+
+Scan this QR code to connect with me on LinkedIn:
+
+```{=html}
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="white"/>
+  <g fill="#0077b5">
+    <!-- Simplified QR code pattern for LinkedIn -->
+    <rect x="10" y="10" width="180" height="180" fill="none" stroke="#0077b5" stroke-width="2"/>
+    <rect x="20" y="20" width="20" height="20" fill="#0077b5"/>
+    <rect x="50" y="20" width="20" height="20" fill="#0077b5"/>
+    <rect x="80" y="20" width="20" height="20" fill="#0077b5"/>
+    <rect x="110" y="20" width="20" height="20" fill="#0077b5"/>
+    <rect x="140" y="20" width="20" height="20" fill="#0077b5"/>
+    <rect x="170" y="20" width="10" height="20" fill="#0077b5"/>
+    
+    <rect x="20" y="50" width="20" height="20" fill="#0077b5"/>
+    <rect x="50" y="50" width="20" height="20" fill="white"/>
+    <rect x="80" y="50" width="20" height="20" fill="#0077b5"/>
+    <rect x="110" y="50" width="20" height="20" fill="white"/>
+    <rect x="140" y="50" width="20" height="20" fill="#0077b5"/>
+    <rect x="170" y="50" width="10" height="20" fill="#0077b5"/>
+    
+    <rect x="20" y="80" width="20" height="20" fill="#0077b5"/>
+    <rect x="50" y="80" width="20" height="20" fill="#0077b5"/>
+    <rect x="80" y="80" width="20" height="20" fill="#0077b5"/>
+    <rect x="110" y="80" width="20" height="20" fill="#0077b5"/>
+    <rect x="140" y="80" width="20" height="20" fill="#0077b5"/>
+    <rect x="170" y="80" width="10" height="20" fill="#0077b5"/>
+    
+    <rect x="20" y="110" width="20" height="20" fill="#0077b5"/>
+    <rect x="50" y="110" width="20" height="20" fill="white"/>
+    <rect x="80" y="110" width="20" height="20" fill="#0077b5"/>
+    <rect x="110" y="110" width="20" height="20" fill="white"/>
+    <rect x="140" y="110" width="20" height="20" fill="#0077b5"/>
+    <rect x="170" y="110" width="10" height="20" fill="#0077b5"/>
+    
+    <rect x="20" y="140" width="20" height="20" fill="#0077b5"/>
+    <rect x="50" y="140" width="20" height="20" fill="#0077b5"/>
+    <rect x="80" y="140" width="20" height="20" fill="#0077b5"/>
+    <rect x="110" y="140" width="20" height="20" fill="#0077b5"/>
+    <rect x="140" y="140" width="20" height="20" fill="#0077b5"/>
+    <rect x="170" y="140" width="10" height="20" fill="#0077b5"/>
+    
+    <rect x="20" y="170" width="20" height="10" fill="#0077b5"/>
+    <rect x="50" y="170" width="20" height="10" fill="#0077b5"/>
+    <rect x="80" y="170" width="20" height="10" fill="#0077b5"/>
+    <rect x="110" y="170" width="20" height="10" fill="#0077b5"/>
+    <rect x="140" y="170" width="20" height="10" fill="#0077b5"/>
+    <rect x="170" y="170" width="10" height="10" fill="#0077b5"/>
+  </g>
+  <text x="100" y="195" text-anchor="middle" font-family="Arial" font-size="8" fill="#0077b5">LinkedIn</text>
+</svg>
+```
+
+*Alternative: If the QR code doesn't display properly, you can directly visit [linkedin.com/in/manav-sidhu](https://www.linkedin.com/in/manav-sidhu/)*
+
+## Professional Interests
+
+I'm particularly interested in connecting with professionals in these areas:
+
+::: {.card}
+**Business Analytics & Operations**
+- Data-driven decision making
+- Process optimization and efficiency
+- Performance measurement and KPIs
+- Supply chain and inventory management
+:::
+
+::: {.card}
+**Customer Experience & Service**
+- Customer journey mapping
+- Service design and improvement
+- Customer relationship management
+- Service recovery and satisfaction
+:::
+
+::: {.card}
+**MBA Networking & Development**
+- Academic collaboration opportunities
+- Industry insights and trends
+- Career development and mentorship
+- Professional association memberships
+:::
+
+## Response Guidelines
+
+::: {.callout-note}
+**Professional Communication**
+
+I value professional, respectful communication and typically respond to:
+- **Networking requests** within 24-48 hours
+- **Career opportunities** within 24 hours
+- **Academic collaborations** within 48-72 hours
+- **General inquiries** within 3-5 business days
+
+Please include relevant context about your interest in connecting, and I'll be happy to respond appropriately.
+:::
+
+## Privacy & Professionalism
+
+- **Information Sharing**: I'm selective about sharing personal contact details and prefer initial contact through LinkedIn or email
+- **Professional Focus**: I prioritize connections related to business, analytics, and professional development
+- **Response Quality**: I aim to provide thoughtful, helpful responses to all professional inquiries
+- **Networking Events**: Open to attending local business events and industry conferences in the Greater Vancouver area
+
+## Alternative Contact Methods
+
+For specific purposes, I may be available through:
+
+- **University Canada West Alumni Network**: For academic and alumni connections
+- **Vancouver Business Network**: For local business community engagement
+- **Industry Conferences**: For in-person networking opportunities
+
+---
+
+*I believe in building meaningful professional relationships based on mutual respect and shared interests. Whether you're a fellow student, industry professional, or potential employer, I look forward to connecting and exploring opportunities for collaboration and growth.*
+
+::: {.callout-tip}
+**Quick Connect**: The fastest way to reach me is through LinkedIn messaging or email. I check both regularly and respond promptly to professional inquiries.
+:::

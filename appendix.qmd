@@ -1,0 +1,158 @@
+---
+title: "Appendix — LLM Drafts & Annotations"
+---
+
+# Appendix: LLM Drafts & Site Documentation
+
+This appendix provides transparency into the development process of this portfolio, including initial LLM-generated content, subsequent refinements, and technical documentation. This section serves as both a record of the development process and a demonstration of how AI assistance was integrated while maintaining authenticity.
+
+## Site Map (Generated)
+
+The following diagram illustrates the structure and navigation flow of this portfolio website:
+
+```
+Site Structure:
+- Home / index.qmd
+  - Resume/CV
+    - Professional Experience
+    - Education
+    - Certifications
+  - Projects & Case Studies
+    - Inventory Accuracy Project
+    - POS Optimization
+    - CRM Hygiene Playbook
+  - Skills & Certifications
+    - Technical Skills
+    - Soft Skills
+    - Certifications
+  - Contact
+    - Contact Information
+    - LinkedIn QR Code
+    - Professional Interests
+  - Reflection
+    - LLM-Assisted Development
+    - Authenticity & Accuracy
+    - Limitations & Mitigation
+  - Appendix
+    - Site Map
+    - LLM Drafts
+    - Change Log
+```
+
+## LLM Drafts
+
+### Initial "About Me" Draft
+
+The following represents the first LLM-generated version of the "About Me" section, followed by my annotations and revisions:
+
+```
+**LLM-Generated Draft:**
+"I am a dedicated MBA student at University Canada West with a strong academic background in Economics. My professional journey has been characterized by a commitment to excellence in customer service and operational efficiency. Through my diverse work experience, I have developed a comprehensive understanding of business processes and customer relationship management."
+
+**My Annotations and Revisions:**
+- **Removed generic language**: "dedicated" and "characterized by a commitment to excellence" were too generic
+- **Added specific details**: Included graduation year (2026) and previous degree details
+- **Enhanced personal voice**: Made the language more direct and authentic
+- **Added career interests**: Included specific focus areas (business analytics, operations, customer experience)
+- **Improved flow**: Better connection between education and experience
+```
+
+### Initial Project Description Draft
+
+```
+**LLM-Generated Draft:**
+"During my tenure at Park Gate Farm Market, I identified significant inefficiencies in inventory management processes. Through systematic analysis and implementation of best practices, I was able to improve operational efficiency and reduce costs while maintaining high customer satisfaction levels."
+
+**My Annotations and Revisions:**
+- **Added specific metrics**: Included actual inventory accuracy improvement (85% to 99.2%)
+- **Included problem context**: Added customer complaints and lost sales opportunities
+- **Enhanced solution details**: Described the systematic approach and specific procedures
+- **Added timeframe**: Specified "within 3 months" for credibility
+- **Included quantifiable outcomes**: Added specific improvements in customer satisfaction and operational efficiency
+```
+
+## Change Log
+
+### Version 1.0 (Initial Development)
+**Date**: [Current Date]
+- Created project structure and configuration files
+- Developed all main content pages with LLM assistance
+- Implemented responsive design and accessibility features
+- Added APA citations and bibliography
+- Integrated professional styling and branding
+
+### Planned Updates
+**Version 1.1** (Future)
+- Replace placeholder images with actual professional photos
+- Update contact information with real email and LinkedIn profile
+- Add actual resume PDF file
+- Include real project screenshots and documentation
+
+**Version 1.2** (Future)
+- Add blog section for ongoing professional development
+- Integrate analytics tracking
+- Enhance mobile responsiveness
+- Add multi-language support (Punjabi/Hindi)
+
+## Technical Documentation
+
+### File Structure
+```
+mba-portfolio-manav-sidhu/
+├── _quarto.yml          # Global configuration
+├── index.qmd            # Home page
+├── resume.qmd           # Professional resume
+├── projects.qmd         # Case studies and projects
+├── skills.qmd           # Skills and certifications
+├── contact.qmd          # Contact information
+├── reflection.qmd       # LLM development reflection
+├── appendix.qmd         # This documentation
+├── references.bib       # APA bibliography
+├── apa.csl             # Citation style
+├── styles.css          # Custom styling
+└── assets/
+    ├── profile.jpg     # Professional photo
+    ├── resume.pdf      # Downloadable resume
+    └── site-map.png    # Generated site map
+```
+
+### Development Process
+
+1. **Initial Planning**: Defined project structure and content requirements
+2. **LLM Collaboration**: Used AI assistance for initial content generation and structure
+3. **Content Refinement**: Personally reviewed and revised all content for authenticity
+4. **Technical Implementation**: Created Quarto configuration and styling
+5. **Quality Assurance**: Verified all links, citations, and accessibility features
+6. **Documentation**: Created this appendix for transparency
+
+### LLM Integration Strategy
+
+- **Content Generation**: Used AI for initial drafts and structure suggestions
+- **Language Refinement**: Leveraged AI for professional language patterns
+- **Fact Verification**: Personally verified all factual information
+- **Voice Preservation**: Maintained authentic personal expression through careful revision
+- **Transparency**: Documented the process in this appendix
+
+## Future Enhancements
+
+### Content Additions
+- Real project screenshots and documentation
+- Video introductions or project demonstrations
+- Interactive elements (skills assessment, project timelines)
+- Blog section for ongoing professional development
+
+### Technical Improvements
+- Enhanced SEO optimization
+- Performance optimization for faster loading
+- Advanced analytics integration
+- Multi-language support implementation
+
+### Professional Development
+- Regular content updates based on new experiences
+- Integration with professional networking platforms
+- Portfolio analytics and visitor tracking
+- A/B testing for content optimization
+
+---
+
+*This appendix demonstrates my commitment to transparency in AI-assisted content creation while maintaining professional standards and authentic personal expression. The documentation serves as both a record of the development process and a guide for future portfolio enhancements.*

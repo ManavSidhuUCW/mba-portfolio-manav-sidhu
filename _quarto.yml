@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+title: "Manav Sidhu — MBA Portfolio"
+description: "Professional portfolio showcasing business acumen, customer service excellence, and analytical skills developed through MBA studies and diverse work experience."
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    link-external-newwindow: true
+    df-print: paged
+    css: styles.css
+    code-fold: false
+    code-tools: true
+    code-copy: true
+    smooth-scroll: true
+    search: true
+    dark-mode: auto
+
+favicon: assets/profile.jpg
+
+page-footer: |
+  <div class="footer-content">
+    <p>&copy; 2024 Manav Sidhu. All rights reserved.</p>
+    <div class="social-links">
+      <a href="https://www.linkedin.com/in/manav-sidhu/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </div>
+
+website:
+  title: "Manav Sidhu — MBA Portfolio"
+  repo-url: https://github.com/manav-sidhu/mba-portfolio-manav-sidhu
+  repo-actions: [issue, source]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume/CV
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills & Certifications
+      - href: contact.qmd
+        text: Contact
+      - href: reflection.qmd
+        text: Reflection
+      - href: appendix.qmd
+        text: Appendix
+    right:
+      - icon: github
+        href: https://github.com/manav-sidhu/mba-portfolio-manav-sidhu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/manav-sidhu/

@@ -1,0 +1,163 @@
+---
+title: "Skills & Certifications"
+---
+
+# Skills & Certifications
+
+This comprehensive overview showcases my technical abilities, soft skills, and professional certifications. My skill set combines analytical thinking with practical business applications, positioning me for roles that require both technical proficiency and interpersonal effectiveness.
+
+## Skills Matrix
+
+| Skill Category | Proficiency Level | Context & Application |
+|----------------|-------------------|----------------------|
+| **Excel (Advanced)** | Expert | Business analytics, data visualization, financial modeling |
+| **Customer Service** | Advanced | Retail operations, conflict resolution, relationship building |
+| **Inventory Management** | Advanced | Stock control, demand forecasting, supply chain optimization |
+| **CRM Systems** | Intermediate | Data entry, reporting, customer relationship tracking |
+| **Point-of-Sale (POS)** | Advanced | Transaction processing, system troubleshooting, training |
+| **Data Analysis** | Intermediate | Statistical analysis, trend identification, reporting |
+| **Process Improvement** | Intermediate | Workflow optimization, efficiency analysis, implementation |
+| **Cross-cultural Communication** | Advanced | Multilingual customer service, international business contexts |
+| **Project Management** | Basic | Small-scale initiatives, timeline management, stakeholder coordination |
+| **Business Writing** | Intermediate | Professional correspondence, report writing, documentation |
+
+## Technical Skills
+
+### Business Analytics & Tools
+
+::: {.card}
+**Microsoft Excel (Advanced)**
+- Complex formulas and functions (VLOOKUP, INDEX/MATCH, PivotTables)
+- Data visualization and chart creation
+- Financial modeling and forecasting
+- Macros and automation basics
+- Data cleaning and validation techniques
+:::
+
+::: {.card}
+**Data Analysis & Reporting**
+- Statistical analysis and interpretation
+- Trend identification and forecasting
+- Performance metrics calculation
+- Automated report generation
+- Data quality assessment and improvement
+:::
+
+::: {.card}
+**Business Systems**
+- Point-of-Sale (POS) software proficiency
+- Customer Relationship Management (CRM) systems
+- Inventory management software
+- Basic database concepts and queries
+- Cloud-based collaboration tools
+:::
+
+### Communication & Teamwork
+
+::: {.card}
+**Professional Communication**
+- Clear and concise business writing
+- Effective presentation skills
+- Active listening and feedback integration
+- Cross-functional team collaboration
+- Stakeholder relationship management
+:::
+
+::: {.card}
+**Multilingual Capabilities**
+- English (Fluent - Professional)
+- Punjabi (Native)
+- Hindi (Fluent)
+- Cross-cultural business communication
+:::
+
+## Soft Skills
+
+### Customer Service Excellence
+
+My customer service experience spans multiple industries and contexts, demonstrating adaptability and problem-solving abilities:
+
+- **Conflict Resolution**: Successfully resolved customer complaints and maintained satisfaction scores above 4.5/5
+- **Relationship Building**: Developed long-term customer relationships through consistent, high-quality service
+- **Product Knowledge**: Maintained comprehensive understanding of products and services to provide accurate information
+- **Service Recovery**: Turned negative experiences into positive outcomes through proactive problem-solving
+
+### Leadership & Collaboration
+
+- **Team Coordination**: Led small teams during peak periods, ensuring smooth operations
+- **Training & Mentoring**: Developed training materials and mentored new staff members
+- **Cross-functional Communication**: Bridged communication gaps between different departments
+- **Process Improvement**: Identified inefficiencies and implemented solutions collaboratively
+
+## Certifications
+
+::: {.badge .badge-certification}
+**Advanced Excel Certification**
+Microsoft Office Specialist
+:::
+
+::: {.badge .badge-certification}
+**Customer Service Excellence**
+Retail Council of Canada
+:::
+
+::: {.badge .badge-certification}
+**Food Safety Certification**
+British Columbia Food Safety
+:::
+
+::: {.badge .badge-certification}
+**Business Analytics Fundamentals**
+University Canada West
+:::
+
+## How I Learn
+
+::: {.callout-tip}
+**Continuous Learning Philosophy**
+
+I believe in a multi-faceted approach to skill development:
+
+1. **Hands-on Experience**: Learning through practical application in real business contexts
+2. **Formal Education**: Structured learning through MBA coursework and certifications
+3. **Self-directed Study**: Staying current with industry trends and best practices
+4. **Peer Learning**: Collaborating with colleagues and mentors to share knowledge
+5. **Feedback Integration**: Actively seeking and incorporating feedback to improve performance
+
+This approach ensures that my skills remain relevant and applicable to evolving business needs.
+:::
+
+## Skill Development Goals
+
+### Short-term (6-12 months)
+- **Advanced Data Visualization**: Master Tableau or Power BI for enhanced reporting capabilities
+- **SQL Proficiency**: Develop database querying skills for more complex data analysis
+- **Project Management**: Obtain PMP or similar certification for formal project management skills
+
+### Medium-term (1-2 years)
+- **Business Intelligence**: Develop expertise in BI tools and dashboard creation
+- **Process Automation**: Learn RPA tools and automation techniques
+- **Strategic Analysis**: Enhance strategic thinking and business planning capabilities
+
+### Long-term (2+ years)
+- **Leadership Development**: Build executive-level leadership and management skills
+- **Industry Specialization**: Develop deep expertise in specific business domains
+- **Innovation Management**: Learn to drive organizational innovation and change
+
+## Technical Proficiency Assessment
+
+| Skill Area | Current Level | Target Level | Timeline |
+|------------|---------------|--------------|----------|
+| Excel Advanced | Expert | Maintain | Ongoing |
+| Data Visualization | Intermediate | Advanced | 6 months |
+| SQL | Basic | Intermediate | 12 months |
+| Project Management | Basic | Intermediate | 18 months |
+| Business Intelligence | Basic | Advanced | 24 months |
+
+---
+
+*My skill set reflects a balance of technical capabilities and interpersonal effectiveness, essential for modern business environments. I continuously seek opportunities to expand my expertise and apply new knowledge to solve real business challenges.*
+
+::: {.callout-note}
+**Note**: Skills are regularly updated based on new experiences and learning. For detailed project examples demonstrating these skills, see the [Projects](projects.qmd) section.
+:::

@@ -1,0 +1,144 @@
+---
+title: "Projects & Case Studies"
+---
+
+# Business Projects & Case Studies
+
+This section showcases practical applications of my business knowledge and analytical skills through real-world projects and initiatives. Each case study demonstrates problem-solving, data analysis, and process improvement capabilities.
+
+## Inventory Accuracy Mini-Project
+
+**Context**: During my role at Park Gate Farm Market, I identified inconsistencies in inventory tracking that were affecting both customer satisfaction and operational efficiency.
+
+### Problem Analysis
+
+The store was experiencing:
+- 15% discrepancy between recorded and actual inventory levels
+- Customer complaints about out-of-stock items
+- Inefficient restocking procedures leading to lost sales opportunities
+
+### Solution Implementation
+
+I developed and implemented a systematic inventory management approach:
+
+```{python}
+#| echo: false
+#| code-summary: "Inventory Tracking System Overview"
+import pandas as pd
+
+# Sample inventory tracking data
+inventory_data = {
+    'Product': ['Organic Apples', 'Fresh Milk', 'Whole Grain Bread', 'Free-range Eggs'],
+    'Recorded_Qty': [45, 32, 28, 60],
+    'Actual_Qty': [42, 30, 25, 58],
+    'Discrepancy': [3, 2, 3, 2],
+    'Category': ['Produce', 'Dairy', 'Bakery', 'Dairy']
+}
+
+df = pd.DataFrame(inventory_data)
+df['Accuracy_Rate'] = ((df['Recorded_Qty'] - df['Discrepancy']) / df['Recorded_Qty'] * 100).round(1)
+print(df.to_string(index=False))
+```
+
+### Results & Impact
+
+- **Inventory Accuracy**: Improved from 85% to 99.2% within 3 months
+- **Customer Satisfaction**: Reduced out-of-stock complaints by 40%
+- **Operational Efficiency**: Streamlined restocking procedures, saving 2 hours daily
+- **Cost Savings**: Reduced waste and improved cash flow management
+
+::: {.callout-tip}
+**Key Learning**: This project reinforced the importance of data-driven decision making in retail operations. Research shows that improved inventory accuracy can increase retail profitability by 5-10%.
+:::
+
+## POS Process Optimization
+
+**Context**: Identified opportunities to improve transaction efficiency and reduce customer wait times at the point of sale.
+
+### Process Analysis
+
+Conducted time-motion studies and identified bottlenecks:
+- Average transaction time: 2.5 minutes
+- Peak hour wait times: 8-12 minutes
+- Payment processing delays: 30% of total transaction time
+
+### Optimization Strategy
+
+Implemented a three-phase improvement plan:
+
+1. **Staff Training**: Developed quick-reference guides for common transactions
+2. **System Configuration**: Optimized POS settings for faster processing
+3. **Customer Flow**: Redesigned checkout area layout
+
+### Measurable Outcomes
+
+| Metric | Before | After | Improvement |
+|--------|--------|-------|-------------|
+| Avg. Transaction Time | 2.5 min | 1.8 min | 28% faster |
+| Peak Hour Wait Time | 10 min | 6 min | 40% reduction |
+| Customer Satisfaction | 3.2/5 | 4.1/5 | 28% increase |
+| Daily Transaction Volume | 120 | 150 | 25% increase |
+
+## CRM Hygiene Playbook
+
+**Context**: At Spy Jet, I noticed declining data quality in the customer relationship management system, affecting marketing campaign effectiveness.
+
+### Data Quality Assessment
+
+Analyzed 500+ customer records and identified:
+- 25% incomplete contact information
+- 15% duplicate entries
+- 30% outdated customer preferences
+- Inconsistent data entry formats
+
+### Solution Development
+
+Created a comprehensive CRM maintenance protocol:
+
+::: {.card}
+**CRM Hygiene Checklist**
+- Weekly data validation and cleaning
+- Monthly duplicate detection and merging
+- Quarterly customer preference updates
+- Standardized data entry templates
+- Automated data quality reports
+:::
+
+### Implementation Results
+
+- **Data Completeness**: Improved from 75% to 94%
+- **Campaign Effectiveness**: Email open rates increased by 35%
+- **Customer Engagement**: Response rates improved by 28%
+- **Time Efficiency**: Automated reporting saved 5 hours weekly
+
+::: {.callout-note}
+**Business Impact**: Clean CRM data is crucial for effective customer relationship management. Studies indicate that data quality directly correlates with marketing campaign success rates.
+:::
+
+## Future Project Ideas
+
+### Business Analytics Dashboard
+**Objective**: Develop a comprehensive dashboard for real-time business performance monitoring
+- Key Performance Indicators (KPIs) tracking
+- Automated reporting and alerts
+- Data visualization for decision making
+
+### Customer Journey Mapping
+**Objective**: Map and optimize the complete customer experience
+- Touchpoint analysis and optimization
+- Customer feedback integration
+- Service delivery improvement
+
+### Process Automation Study
+**Objective**: Identify opportunities for workflow automation
+- Manual process documentation
+- Automation feasibility assessment
+- ROI analysis for implementation
+
+---
+
+*These projects demonstrate my ability to identify business problems, develop data-driven solutions, and measure tangible results. Each initiative reflects my commitment to continuous improvement and operational excellence.*
+
+::: {.callout-warning}
+**Note**: Project screenshots and detailed documentation are available in the [Appendix](appendix.qmd) section, including initial LLM-generated drafts and subsequent refinements.
+:::
